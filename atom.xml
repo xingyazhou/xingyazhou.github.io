@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://xingyazhou.github.io/"/>
-  <updated>2017-04-14T15:44:15.460Z</updated>
+  <updated>2017-04-14T14:41:32.493Z</updated>
   <id>https://xingyazhou.github.io/</id>
   
   <author>
@@ -14,46 +14,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>helloXingya</title>
-    <link href="https://xingyazhou.github.io/2017/04/14/helloXingya/"/>
-    <id>https://xingyazhou.github.io/2017/04/14/helloXingya/</id>
-    <published>2017-04-14T15:06:13.000Z</published>
-    <updated>2017-04-14T15:44:15.460Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="/2017/04/14/helloXingya/rui.JPG" alt=""><br>helloXingya</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;/2017/04/14/helloXingya/rui.JPG&quot; alt=&quot;&quot;&gt;&lt;br&gt;helloXingya&lt;/p&gt;
-
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>7 habbits</title>
-    <link href="https://xingyazhou.github.io/2017/04/14/7-habbits/"/>
-    <id>https://xingyazhou.github.io/2017/04/14/7-habbits/</id>
-    <published>2017-04-14T14:59:30.000Z</published>
-    <updated>2017-04-14T15:48:16.543Z</updated>
-    
-    <content type="html"><![CDATA[<p>7 habbits<br><img src="/2017/04/14/7-habbits/habits.jpg" alt=""></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;7 habbits&lt;br&gt;&lt;img src=&quot;/2017/04/14/7-habbits/habits.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-
-    
-    </summary>
-    
-    
-  </entry>
   
   <entry>
     <title>Happy Easter</title>
