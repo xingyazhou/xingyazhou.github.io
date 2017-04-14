@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://xingyazhou.github.io/"/>
-  <updated>2017-04-14T14:41:32.493Z</updated>
+  <updated>2017-04-14T18:23:51.687Z</updated>
   <id>https://xingyazhou.github.io/</id>
   
   <author>
@@ -14,6 +14,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Living in Sweden</title>
+    <link href="https://xingyazhou.github.io/2017/04/14/Living-in-Sweden/"/>
+    <id>https://xingyazhou.github.io/2017/04/14/Living-in-Sweden/</id>
+    <published>2017-04-14T18:11:13.000Z</published>
+    <updated>2017-04-14T18:23:51.687Z</updated>
+    
+    <content type="html"><![CDATA[<p>瑞典<br>一个美丽的地方<br>在这里</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;瑞典&lt;br&gt;一个美丽的地方&lt;br&gt;在这里&lt;/p&gt;
+
+    
+    </summary>
+    
+      <category term="生活" scheme="https://xingyazhou.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>Happy Easter</title>
@@ -42,22 +64,21 @@
     <link href="https://xingyazhou.github.io/2017/04/13/The-Habits-of-Highly-effective-People/"/>
     <id>https://xingyazhou.github.io/2017/04/13/The-Habits-of-Highly-effective-People/</id>
     <published>2017-04-13T12:42:56.000Z</published>
-    <updated>2017-04-14T15:48:00.765Z</updated>
+    <updated>2017-04-14T18:30:39.226Z</updated>
     
     <content type="html"><![CDATA[<p>This is the example</p>
 <p><img src="/2017/04/13/The-Habits-of-Highly-effective-People/habits.jpg" alt=""></p>
-<p>happy leo!</p>
-<p><img src="/2017/04/13/The-Habits-of-Highly-effective-People/leo2.JPG" alt=""></p>
 ]]></content>
     
     <summary type="html">
     
       &lt;p&gt;This is the example&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/2017/04/13/The-Habits-of-Highly-effective-People/habits.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;happy leo!&lt;/p&gt;
-&lt;p&gt;&lt;img 
+
     
     </summary>
+    
+      <category term="阅读" scheme="https://xingyazhou.github.io/categories/%E9%98%85%E8%AF%BB/"/>
     
     
   </entry>
@@ -67,7 +88,7 @@
     <link href="https://xingyazhou.github.io/2017/04/13/%E8%BD%BB%E6%9D%BE%E7%8E%A9%E8%BD%ACGithub%20Page%20And%20Hexo/"/>
     <id>https://xingyazhou.github.io/2017/04/13/轻松玩转Github Page And Hexo/</id>
     <published>2017-04-13T08:45:12.000Z</published>
-    <updated>2017-04-13T12:49:54.648Z</updated>
+    <updated>2017-04-14T18:30:25.980Z</updated>
     
     <content type="html"><![CDATA[<p>hexo new “Play around Github Page &amp; Hexo”<br>hexo new page “Play around Github Page &amp; Hexo”</p>
 <p>npm install hexo-generator-index –save<br>npm install hexo-generator-archive –save<br>npm install hexo-generator-category –save<br>npm install hexo-generator-tag –save<br>npm install hexo-server –save<br>npm install hexo-deployer-git –save<br>npm install hexo-deployer-heroku –save<br>npm install hexo-deployer-rsync –save<br>npm install hexo-deployer-openshift –save<br>npm install hexo-renderer-marked@0.2 –save<br>npm install hexo-renderer-stylus@0.2 –save<br>npm install hexo-generator-feed@1 –save<br>npm install hexo-generator-sitemap@1 –save</p>
@@ -80,6 +101,8 @@
 &lt;p&gt;npm install hexo-generator-ind
     
     </summary>
+    
+      <category term="编程" scheme="https://xingyazhou.github.io/categories/%E7%BC%96%E7%A8%8B/"/>
     
     
   </entry>
