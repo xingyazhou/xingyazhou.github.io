@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://xingyazhou.github.io/"/>
-  <updated>2017-04-14T10:27:04.247Z</updated>
+  <updated>2017-04-14T13:13:12.964Z</updated>
   <id>https://xingyazhou.github.io/</id>
   
   <author>
@@ -20,11 +20,13 @@
     <link href="https://xingyazhou.github.io/2017/04/13/Happy-Easter/"/>
     <id>https://xingyazhou.github.io/2017/04/13/Happy-Easter/</id>
     <published>2017-04-13T17:02:42.000Z</published>
-    <updated>2017-04-14T10:27:04.247Z</updated>
+    <updated>2017-04-14T13:13:12.964Z</updated>
     
     <content type="html"><![CDATA[<p>Hello<br><br></p>
 <p><img src="/2017/04/13/Happy-Easter/" alt="example"></p>
 <p>again<br><img src="/2017/04/13/Happy-Easter/04/13/Happy-Easter/example.jpg" alt="This is an example image" title="This is an example image"><br></p>
+<p>leo</p>
+<p><img src="/2017/04/13/Happy-Easter/leo.JPG" alt=""></p>
 ]]></content>
     
     <summary type="html">
