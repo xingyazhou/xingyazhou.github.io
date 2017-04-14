@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://xingyazhou.github.io/"/>
-  <updated>2017-04-13T13:11:29.784Z</updated>
+  <updated>2017-04-14T10:27:04.247Z</updated>
   <id>https://xingyazhou.github.io/</id>
   
   <author>
@@ -16,19 +16,41 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>The Habits of Highly effective People</title>
-    <link href="https://xingyazhou.github.io/2017/04/13/The-Habits-of-Highly-effective-People/"/>
-    <id>https://xingyazhou.github.io/2017/04/13/The-Habits-of-Highly-effective-People/</id>
-    <published>2017-04-13T12:42:56.000Z</published>
-    <updated>2017-04-13T13:11:29.784Z</updated>
+    <title>Happy Easter</title>
+    <link href="https://xingyazhou.github.io/2017/04/13/Happy-Easter/"/>
+    <id>https://xingyazhou.github.io/2017/04/13/Happy-Easter/</id>
+    <published>2017-04-13T17:02:42.000Z</published>
+    <updated>2017-04-14T10:27:04.247Z</updated>
     
-    <content type="html"><![CDATA[<p>This is the example<br></p>
+    <content type="html"><![CDATA[<p>Hello<br><br></p>
+<p><img src="/2017/04/13/Happy-Easter/" alt="example"></p>
+<p>again<br><img src="/2017/04/13/Happy-Easter/04/13/Happy-Easter/example.jpg" alt="This is an example image" title="This is an example image"><br></p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;This is the example&lt;br&gt;&lt;/p&gt;
-
+      &lt;p&gt;Hello&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/2017/04/13/Happy-Easter/&quot; alt=&quot;example&quot;&gt;&lt;/p&gt;
+&lt;p&gt;again&lt;br&gt;&lt;img src=&quot;/2017/04/13/Happy-Easter/04/13/Happy-E
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>The Habits of Highly effective People</title>
+    <link href="https://xingyazhou.github.io/2017/04/13/The-Habits-of-Highly-effective-People/"/>
+    <id>https://xingyazhou.github.io/2017/04/13/The-Habits-of-Highly-effective-People/</id>
+    <published>2017-04-13T12:42:56.000Z</published>
+    <updated>2017-04-13T16:18:20.334Z</updated>
+    
+    <content type="html"><![CDATA[<p>This is the example<br><img src="/2017/04/13/The-Habits-of-Highly-effective-People/7habbits.png" alt="pic"><br><img src="/2017/04/13/The-Habits-of-Highly-effective-People/" alt=""></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;This is the example&lt;br&gt;&lt;img src=&quot;/2017/04/13/The-Habits-of-Highly-effective-People/7habbits.png&quot; alt=&quot;pic&quot;&gt;&lt;br&gt;&lt;img src=&quot;/2017/04/13/The-
     
     </summary>
     
