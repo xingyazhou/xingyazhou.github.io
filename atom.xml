@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://xingyazhou.github.io/"/>
-  <updated>2017-04-14T15:01:06.575Z</updated>
+  <updated>2017-04-14T15:07:28.258Z</updated>
   <id>https://xingyazhou.github.io/</id>
   
   <author>
@@ -14,6 +14,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>helloXingya</title>
+    <link href="https://xingyazhou.github.io/2017/04/14/helloXingya/"/>
+    <id>https://xingyazhou.github.io/2017/04/14/helloXingya/</id>
+    <published>2017-04-14T15:06:13.000Z</published>
+    <updated>2017-04-14T15:07:28.258Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/2017/04/14/helloXingya/habits.JPG" alt=""><br>helloXingya</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/2017/04/14/helloXingya/habits.JPG&quot; alt=&quot;&quot;&gt;&lt;br&gt;helloXingya&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>7 habbits</title>
